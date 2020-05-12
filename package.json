@@ -20,6 +20,7 @@
   "devDependencies": {
     "dotenv": "^6.2.0",
     "nodemon": "^1.18.10"
+    "set-value": ">=2.0.1"
   },
   "repository": {
     "type": "git",
